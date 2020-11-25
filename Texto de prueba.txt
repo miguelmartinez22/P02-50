@@ -1,1 +1,2 @@
 Esto es un texto de prueba para la elavoración de la práctica P02-50
+Modificación en la rama principal solicitada en el punto 2
